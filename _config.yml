@@ -1,0 +1,22 @@
+
+title: Tesla - 2020
+url: hearkelly.github.io
+baseurl: /tesla
+
+# Required plugins for the theme to work properly
+
+sass:
+  style: compressed
+
+highlighter: rouge #selecting the highlighter, default is rouge
+
+header_pages:
+  - index.md
+  - cast.md
+  - notes.md
+  - review.md
+
+highlighter: rouge
+
+# controls how big the shell and font looks
+font-size: small # options: [small] or [large]
