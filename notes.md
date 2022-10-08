@@ -7,7 +7,7 @@ permalink_name: /NOTES
 
 A list of external links, Youtube videos and film media.
 
-<img src="\assets\images\waterfall.jpg" class="waterfall">
+<img src="\tesla\assets\images\waterfall.jpg" class="waterfall">
 
 ### EXTERNAL LINK: [Alternating Current: Nikola Tesla (Niagara Falls)](https://youtu.be/iTp3AckX-lA) (Video)
 
@@ -25,8 +25,8 @@ Click \[\>\] to see Tesla's "post-alternating current" phase of experiments in v
 
 ### TESLA'S PAPER "A New System of Alternate Current" (1888)
 
-<object data="\assets\images\tesla.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="\assets\images\tesla.pdf">
+<object data="\tesla\assets\images\tesla.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="\tesla\assets\images\tesla.pdf">
 </object>
 
 ### REFERENCES
