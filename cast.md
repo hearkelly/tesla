@@ -69,7 +69,7 @@ This page lists the cast.
 
 - Performer *"in motion all her life"*
 - Near-love interest of Tesla
-- Toured 
+- Toured Tesla's Pavilion of Light at the 1893 Chicago World's Fair
 - Link: [IMDb Record](https://www.imdb.com/name/nm3266168/) for Rebecca Dayan
 
 ### Link: 
