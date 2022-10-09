@@ -37,6 +37,6 @@ Click \[\>\] to see Tesla's "post-alternating current" phase of experiments in v
 
 - cover image: film still, captured at source @author
 - "cast" page: cropped film stills, captured at source @author
-- "info" page: character quotes, transcribed @author
+- "info" page: character quotes, transcribed from source @author
 
 
