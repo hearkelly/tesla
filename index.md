@@ -7,7 +7,7 @@ permalink_name: /INFO
 
 <img src="\tesla\assets\images\arch.jpg" class="front">
 
-Tesla (**Ethan Hawke**), body framed by a Roman arch, skating in a sunlit courtyard.
+Nikola Tesla (**Ethan Hawke**), body framed by a Roman arch, skating in a sunlit courtyard.
 
 # FILM INFORMATION
 - Title: *Tesla*
