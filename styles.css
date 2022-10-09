@@ -173,7 +173,7 @@
 	 font-weight: bold;
 	 color: var(--main-color);
 }
- *::selection {
+::selection {
 	 background-color: var(--light-alt-color);
 	 color: black;
 }
