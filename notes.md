@@ -35,8 +35,8 @@ Click \[\>\] to see Tesla's "post-alternating current" phase of experiments in v
 
 > "A New System of Alternate Current Motors and Transformers," Nikola Tesla. Source: [PBS](https://www.pbs.org/tesla/res/res_art02.html)
 
-- cover image is a screenshot from the film
-- all images in "cast" page are screenshots from the film
-- all character quotes in "info" page are transcribed from the film
+- cover image: film still, captured at source @author
+- "cast" page: cropped film stills, captured at source @author
+- "info" page: character quotes, transcribed @author
 
 
