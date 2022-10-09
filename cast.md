@@ -43,7 +43,7 @@ This page lists the cast.
 ### Ebon Moss-Bachrach *as* Anital Szigeti
 
 - Longtime friend and co-worker of Tesla
-- Claimed to witness Tesla's boyhood visualization (ie, drawing in the sand) of a power system for alternating current 
+- Claimed to witness Tesla's early visualization (ie, drawing in the sand) of a power system for alternating current 
 - Link: [IMDb Record]() for Ebon Moss-Bachrach
 
 ### Jim Gaffigan *as* George Westinghouse
