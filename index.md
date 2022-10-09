@@ -49,6 +49,6 @@ In *Tesla*, Anne, Victorian philanthropist and daughter of capitalist JP Morgan,
 - LINK: [Film Review](review.html)
 
 @author: Justin Branch
-@course: HUM 111.0006
+@course: HUM 110.0006
 @edited: 08 October 2022
 		
