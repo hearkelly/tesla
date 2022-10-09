@@ -117,6 +117,10 @@
 	 margin-right: auto;
 	 width: 100%;
 }
+
+object {
+	width: 100%;
+}
  .waterfall {
 	 width: 100%;
 	 border: 6px solid #ef5fa7;
