@@ -8,10 +8,12 @@
 	 --alt-color: #2ed573;
 	 --light-alt-color: rgba(46, 213, 115, );
 }
-*::selection {
-	background-color: var(--light-alt-color);
+
+::selection {
+	background-color: rgba(46, 213, 115, );
 	color: black;
 }
+
 /* BASE */
  body {
 	 background-color: var(--bg-color);
